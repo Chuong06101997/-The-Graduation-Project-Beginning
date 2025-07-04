@@ -5,7 +5,7 @@
 Dataset: Kaggle - Telecom Customer Churn Prediction.
 link: <https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction.>
 
-##1. Mục tiêu dự án
+## 1. Mục tiêu dự án
 
 Xác định xem khách hàng có rời bỏ dịch vụ hay không (Churn: Yes/No) dựa vào các đặc điểm như:
 Giới tính, loại dịch vụ sử dụng, thời gian gắn bó, mức phí hằng tháng, phương thức thanh toán, v.v.
@@ -15,14 +15,14 @@ Hỗ trợ doanh nghiệp:
 Cải thiện trải nghiệm khách hàng → giảm churn.
 
 ## 2. CÁC BƯỚC THỰC HÀNH
-###2.1 Tìm hiểu dữ liệu (EDA):
+### 2.1 Tìm hiểu dữ liệu (EDA):
 >Quan sát phân bố của cột Churn (bao nhiêu khách rời bỏ, bao nhiêu ở lại).
 
 >So sánh tỷ lệ churn theo từng yếu tố: hợp đồng, internet, phí tháng, thời gian gắn bó,...
 
 >Vẽ biểu đồ (barplot, histogram) để nhìn rõ xu hướng và mối liên hệ với churn.
 
-###2.2 Xử lý dữ liệu:
+### 2.2 Xử lý dữ liệu:
 >Xử lý dữ liệu thiếu (missing value)
 
 >kiểm tra các lỗi như sai cấu trúc, sai định dạng, duplicate.
