@@ -43,8 +43,7 @@ Cải thiện trải nghiệm khách hàng → giảm churn.
 >Giải thích kết quả
 
 >Xác định biến nào ảnh hưởng nhiều đến việc rời bỏ
-### 2.5 giải thích kết quả và đưa ra hành động
-> Biến nào ảnh hưởng mạnh đến churn ?
+### 2.5 đưa ra hành động:
 
 >Khách hàng có nguy cơ churn cao thường là những ai ?
 
