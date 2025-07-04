@@ -7,8 +7,16 @@ link: <https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction.>
 
 ## 1. Mục tiêu dự án
 
-Xác định xem khách hàng có rời bỏ dịch vụ hay không (Churn: Yes/No) dựa vào các đặc điểm như:
-Giới tính, loại dịch vụ sử dụng, thời gian gắn bó, mức phí hằng tháng, phương thức thanh toán, v.v.
+>Xác định các yếu tố ảnh hưởng đến việc khách hàng rời bỏ (Churn) trong ngành viễn thông.
+
+>Dự đoán xác suất khách hàng sẽ rời bỏ dịch vụ dựa trên dữ liệu hành vi và hồ sơ cá nhân.
+
+>Hỗ trợ doanh nghiệp đưa ra chiến lược giữ chân khách hàng hiệu quả hơn.
+
+Câu hỏi nghiên cứu:
+>Những yếu tố nào làm tăng khả năng khách hàng rời bỏ dịch vụ?
+
+>Mô hình Logistic Regression có thể dự đoán được khách hàng churn với độ chính xác bao nhiêu?
 
 Hỗ trợ doanh nghiệp:
 Ưu tiên chăm sóc nhóm khách có nguy cơ rời bỏ cao
