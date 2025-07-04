@@ -22,11 +22,11 @@ Câu hỏi nghiên cứu:
 ### 2.1 Tìm hiểu dữ liệu (EDA):
 > kiểm tra biến Y có cân bằng chưa ?
 
->Tính tỷ lệ churn tổng thể và theo từng nhóm (giới tính, loại hợp đồng, gói internet…)
+>Tính tỷ lệ churn tổng thể và theo từng nhóm (giới tính, loại hợp đồng, gói internet…).
 
->Dùng biểu đồ trực quan (barplot, boxplot, histogram) để phát hiện xu hướng
+>Dùng biểu đồ trực quan (barplot, boxplot, histogram) để phát hiện xu hướng.
 
->Kiểm tra dữ liệu thiếu, phân bố số liệu, mối tương quan giữa các biến
+>Kiểm tra dữ liệu thiếu, phân bố số liệu, mối tương quan giữa các biến.
 
 ### 2.2 Xử lý dữ liệu:
 >Loại bỏ dữ liệu thiếu (TotalCharges) hoặc xử lý phù hợp.
