@@ -16,6 +16,8 @@ Cải thiện trải nghiệm khách hàng → giảm churn.
 
 ## 2. CÁC BƯỚC THỰC HÀNH
 ### 2.1 Tìm hiểu dữ liệu (EDA):
+> kiểm tra biến Y có cân bằng chưa ?
+
 >Tính tỷ lệ churn tổng thể và theo từng nhóm (giới tính, loại hợp đồng, gói internet…)
 
 >Dùng biểu đồ trực quan (barplot, boxplot, histogram) để phát hiện xu hướng
