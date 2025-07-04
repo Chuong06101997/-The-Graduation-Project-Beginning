@@ -25,11 +25,13 @@ Cải thiện trải nghiệm khách hàng → giảm churn.
 >Kiểm tra dữ liệu thiếu, phân bố số liệu, mối tương quan giữa các biến
 
 ### 2.2 Xử lý dữ liệu:
->Loại bỏ dữ liệu thiếu (TotalCharges) hoặc xử lý phù hợp
+>Loại bỏ dữ liệu thiếu (TotalCharges) hoặc xử lý phù hợp.
 
->Encode các biến phân loại bằng pd.get_dummies() (One-hot encoding)
+>Encode các biến phân loại bằng pd.get_dummies() (One-hot encoding).
 
->Chuyển Churn từ Yes/No → 1/0
+>Chuyển Churn từ Yes/No → 1/0.
+
+>Kiểm tra biến nào phù hợp để đưa vào mô hình.
 
 >Tạo biến đầu vào (X), thêm add_constant() nếu dùng statsmodels
 
