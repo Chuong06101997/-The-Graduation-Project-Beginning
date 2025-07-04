@@ -18,10 +18,6 @@ Câu hỏi nghiên cứu:
 
 >Mô hình Logistic Regression có thể dự đoán được khách hàng churn với độ chính xác bao nhiêu?
 
->Hỗ trợ doanh nghiệp:
->Ưu tiên chăm sóc nhóm khách có nguy cơ rời bỏ cao
->Cải thiện trải nghiệm khách hàng → giảm churn.
-
 ## 2. CÁC BƯỚC THỰC HÀNH
 ### 2.1 Tìm hiểu dữ liệu (EDA):
 > kiểm tra biến Y có cân bằng chưa ?
